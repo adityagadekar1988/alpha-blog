@@ -1,5 +1,5 @@
 # README
 
-  Added an about page section as taught in Tutorial.
+  Added migration named 'Articles' and migrated.
 
 # alpha-blog
