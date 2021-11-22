@@ -1,5 +1,5 @@
 # README
 
-  Added Destroy feature and links on the pages
+  Made code 'DRY'
    
 # alpha-blog
