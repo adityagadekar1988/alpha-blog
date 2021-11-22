@@ -1,5 +1,5 @@
 # README
 
-  Removed byebug from articles_controller
-
+  Added articles indexing feature
+   
 # alpha-blog
