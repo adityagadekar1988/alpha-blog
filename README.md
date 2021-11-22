@@ -1,5 +1,5 @@
 # README
 
-  Added migration named 'Articles' and migrated.
+  Removed byebug from articles_controller
 
 # alpha-blog
