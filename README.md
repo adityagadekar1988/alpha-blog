@@ -1,5 +1,5 @@
 # README
 
-  Added articles indexing feature
+  Added Edit and Update feature
    
 # alpha-blog
