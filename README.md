@@ -1,5 +1,5 @@
 # README
 
-  Added Edit and Update feature
+  Added Destroy feature and links on the pages
    
 # alpha-blog
