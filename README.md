@@ -1,5 +1,5 @@
-# README
+# README 
 
-  Styled Home page and Index Page using Bootstrap
+  Completed Styling using bootstrap
    
 # alpha-blog
