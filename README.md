@@ -1,5 +1,5 @@
 # README 
 
-  Completed Styling using bootstrap
+  Completed Associations and Authentication Systems
    
 # alpha-blog
